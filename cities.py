@@ -21,7 +21,7 @@ cities = get_all_cities()
 for i in cities[:5]:
     print(city)
 
-# in order to search on a specific country
+# in order to search for a specific country
 
 cities = get_all_cities()
 
